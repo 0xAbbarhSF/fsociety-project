@@ -1,6 +1,6 @@
 a couple of python scripts and utilities that might be useful 
 
-you can alias in your ~/.bashrc | .~/.zshrc to use them globally
+you can alias in your ~/.bashrc | ~/.zshrc to use them globally
 
 how to do it ?
 
