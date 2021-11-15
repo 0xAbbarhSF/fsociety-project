@@ -10,4 +10,4 @@ nano ~/.bashrc
 alias <utiltiy name>="python3 </location/of/the/script>"
 
 ```
-if you are old school like me and you are you are using bash, you gonna need to restart the terminal after editing the bashrc file  
+if you are old school like me and you are using bash, you gonna need to restart the terminal after editing the bashrc file  
