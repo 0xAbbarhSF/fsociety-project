@@ -6,8 +6,8 @@ import sys
 
 
 try:
-	myemail = "fsociety.py00@gmail.com"
-	mypassword = '15104cce5a876c75af70b2e03b44d37fdeb30af1b6cabf24050fa415e56969ba'
+	myemail = "YOUR_EMAIL_HERE"
+	mypassword = '<YOUR_PASSWORD_HERE>'
 
 	fakefrom = 'friend@fsociety.com'
 	fakename = sys.argv[2]
